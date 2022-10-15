@@ -9,6 +9,7 @@
 
 .bi:hover {
   color: #f7a300;
+  transition: 0.5s;
 }
 
 /* header {
