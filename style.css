@@ -7,7 +7,11 @@
   scroll-behavior: smooth;
 }
 
-header {
+.bi:hover {
+  color: #f7a300;
+}
+
+/* header {
   position: fixed;
   top: 0;
   right: 0;
@@ -98,7 +102,7 @@ header {
   background-color: #ddd;
   transition: 0.5s;
   width: 20%;
-  /* overflow: hidden; */
+  
 }
 
 #navbar ul {
@@ -162,7 +166,7 @@ header {
   #toggle {
     display: flex;
   }
-}
+} */
 
 .jumbotron {
   background-color: #f7a300;
