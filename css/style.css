@@ -15,6 +15,11 @@ ion-icon {
 ul li a span {
   font-size: 10px;
   padding-right: 8px;
+  display: block;
+}
+
+.navbar-brand .fab {
+  padding-left: 10px;
 }
 
 .jumbotron {
